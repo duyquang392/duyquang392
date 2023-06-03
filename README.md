@@ -18,17 +18,17 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:
 
-🔭 I’m currently working on **Computer Vision.*
+- 🔭 I’m currently working on **Computer Vision.**
 
-🌱 I’m currently learning **Artifical Intelligence.*
+- 🌱 I’m currently learning **Artifical Intelligence.**
 
-👯 I’m looking to collaborate on **AI projects.*
+- 👯 I’m looking to collaborate on **AI projects.**
 
-💬 Ask me about **opencv, ocr, python, c++.*
+- 💬 Ask me about **opencv, ocr, python, c++.**
 
-👨‍💻 All of my projects are available at <a href="https://github.com/duyquang392?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/duyquang392?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 
-🐍 print(random.choice(dev_quote))
+- 🐍 print(random.choice(dev_quote))
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Stack:
   
