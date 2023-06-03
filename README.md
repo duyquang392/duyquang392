@@ -1,7 +1,7 @@
  <img  src="https://github.com/duyquang392/duyquang392/blob/main/Bottom_up.svg" width="100%" />
  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Quang Duy.</h1>
 <!-- <h3 align="center">Just a tech.</h3> -->
- <h2 align="center">A passionate developer from VietNam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+ <h2 align="center">A developer from VietNam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a tech-enthusiast, competent, AI Engineer, Software Developer👨‍💻.
 - I am passionate about Computer Vision program.
