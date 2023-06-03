@@ -53,9 +53,6 @@
   
 ![](https://github-trophies.vercel.app/?username=duyquang392&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
-</div>
-<!-- ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Reach out to me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027411617399) 
