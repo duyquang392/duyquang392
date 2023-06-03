@@ -3,14 +3,14 @@
 <!-- <h3 align="center">Just a tech.</h3> -->
  <h2 align="center">A passionate developer from VietNam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-- I am a tech-enthusiast, competent, well-focused full-stack developer👨‍💻. I am passionate about building fully functional web-applications.
-- I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router and NodeJS. I am good in data structure and algorithms.
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- I am a tech-enthusiast, competent, AI Engineer, Software Developer👨‍💻.
+- I am passionate about Computer Vision program.
+- I am skilled in C++, Python, Javascript, OpenCV,... 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=2%2B+Years+of+Coding+Experience;Data+Structure+and+Algorithm;AI+Engineer+From+VietNam;Software+Developer+From+VietNam"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=500&lines=2%2B+Years+of+Coding+Experience;AI+Engineer+From+VietNam;Software+Developer+From+VietNam"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
