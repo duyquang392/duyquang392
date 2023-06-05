@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **AI projects.**
 
-- 💬 Ask me about **opencv, ocr, python, c++.**
+- 💬 Ask me about **CV, OCR, Python, C++.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/duyquang392?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 
