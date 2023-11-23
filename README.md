@@ -48,11 +48,7 @@
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyquang392&theme=2077" style="height: 300px"  />                                 </div>                                                                                        
 
-## 🏆GitHub Trophies
-<img align="center" src="https://github.com/duyquang392/duyquang392/blob/main/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
-<div align="center"> 
-  
-![](https://github-trophies.vercel.app/?username=duyquang392&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
   
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Reach out to me:
